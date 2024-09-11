@@ -21,6 +21,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
   - Package Management: npm, bun
   - Deployment: Vercel, Docker
 
+## 🌱 I'm Currently Learning
+- Expanding my knowledge of Flutter and Dart Programming.
+- Exploring more advanced backend development techniques.
+- Enhancing app development skills for cross-platform compatibility.
+- Learning New Concepts of Backend and Frontend Programming Technologies.
+
 ## 📫 How to reach me :...
   ### LinkedIn : https://www.linkedin.com/in/rushi-dave-785356200/
   ### Email : rushidave7388@gmail.com
