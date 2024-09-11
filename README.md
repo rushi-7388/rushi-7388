@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ##🚀 What I'm Working On :
 
 ##🌐 Web Development
-    - I have a strong background in web development, working with modern tools and frameworks:
-    - Frontend: HTML, CSS, JavaScript, ReactJS
-    - Backend: Node.js
-    - Database: SQLite , MongoDB, Sql, MySql
+   - I have a strong background in web development, working with modern tools and frameworks:
+   - Frontend: HTML, CSS, JavaScript, ReactJS
+   - Backend: Node.js
+   - Database: SQLite , MongoDB, Sql, MySql
 
 ###📱 App Development
   In addition to web development, I also develop mobile applications:
