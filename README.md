@@ -2,9 +2,10 @@
 ###👋 Hi , I'm Rushi
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on Web Development and App Development. I enjoy building innovative projects that solve real-world problems and enhance user experiences.
 
-##🚀 What I'm Working On
-###🌐 Web Development
-      I have a strong background in web development, working with modern tools and frameworks:
+##🚀 What I'm Working On :
+
+##🌐 Web Development
+    - I have a strong background in web development, working with modern tools and frameworks:
     - Frontend: HTML, CSS, JavaScript, ReactJS
     - Backend: Node.js
     - Database: SQLite , MongoDB, Sql, MySql
