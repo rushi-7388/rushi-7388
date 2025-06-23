@@ -1,73 +1,83 @@
-## ✨ About Me : 
-###👋 Hi , I'm Rushi
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on Web Development and App Development. I enjoy building innovative projects that solve real-world problems and enhance user experiences.
+## ✨ About Me
 
-##🚀 What I'm Working On :
+### 👋 Hi, I'm Rushi
 
-##🌐 Web Development
-   - I have a strong background in web development, working with modern tools and frameworks:
-   - Frontend: HTML, CSS, JavaScript, ReactJS
-   - Backend: Node.js
-   - Database: SQLite , MongoDB, Sql, MySql
+Welcome to my GitHub profile! I'm a passionate software developer focused on **Web Development** and **App Development**. I enjoy building innovative projects that solve real-world problems and enhance user experiences.
 
-###📱 App Development
-  In addition to web development, I also develop mobile applications:
-  - Tools: Android Studio
-  - Technologies: Building responsive and scalable apps with a focus on user-centric design.
+---
 
-### 🛠️ Tools & Technologies
-  - IDE: Visual Studio Code, Android Studio
-  - Version Control: Git & GitHub
-  - Package Management: npm, bun
-  - Deployment: Vercel, Docker
+## 🚀 What I'm Working On
+
+### 🌐 Web Development
+I have a strong background in web development, working with modern tools and frameworks:
+- **Frontend**: HTML, CSS, JavaScript, ReactJS
+- **Backend**: Node.js, Express.js
+- **Database**: SQLite, MongoDB, SQL, MySQL
+
+### 📱 App Development
+In addition to web development, I also build mobile applications:
+- **Tools**: Android Studio
+- **Technologies**: Developing responsive and scalable apps with a focus on user-centric design.
+
+---
+
+## 🛠️ Tools & Technologies
+- **IDE**: Visual Studio Code, Android Studio
+- **Version Control**: Git & GitHub
+- **Package Management**: npm, bun
+- **Deployment**: Vercel, Docker
+
+---
 
 ## 🌱 I'm Currently Learning
-- Expanding my knowledge of Flutter and Dart Programming.
-- Exploring more advanced backend development techniques.
-- Enhancing app development skills for cross-platform compatibility.
-- Learning New Concepts of Backend and Frontend Programming Technologies.
+- Expanding my knowledge of **Flutter** and **Dart Programming**
+- Exploring advanced **backend development** techniques
+- Improving **cross-platform app development** skills
+- Learning modern **frontend and backend technologies**
 
-## 📫 How to reach me :...
-  ### LinkedIn : https://www.linkedin.com/in/rushi-dave-785356200/
-  ### Email : rushidave7388@gmail.com
+---
 
-## 💻 Tech Stack :
-  <p dir"auto">
-  <img  src="https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" alt"java"></img>
-<img src="https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt"Javascript"></img>
-<img src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5"></img>
-<img src="https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="PYTHON"></img>
-<img src="https://camo.githubusercontent.com/a7fff07e5cafec1541292e8ded465ab230075fc069fe23317dbb317b3bbaf65d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" alt="PHP"></img>
-<img src="https://camo.githubusercontent.com/394d48e0a5beee0e3104eb04c8b8e6923567be3ba104754c8c141c6dee91c75e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GITHUB PAGES"></img>
-<img src="https://camo.githubusercontent.com/0803e71d7164cc4981c78ebdbc694b84c20800ca471c185caa101813ea58edc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465" alt="google cloud"></img>
-<img src="https://camo.githubusercontent.com/43962ea76518cc3d0819b0206791ae36c28ccc369f99f412379914f42431c025/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" alt="Vercel"></img>
-<img src="https://camo.githubusercontent.com/69b4807267633882a7cef26d565a2d94eb14865131e38e6f86a725ede1897534/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237" alt="NETLIFY"></img>
-<img src="https://camo.githubusercontent.com/42798b00a7eef872808c3fe138c4c00ca1ac3ba0d0354a808dad73ff82513b17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646169737975692d3541304546383f7374796c653d666f722d7468652d6261646765266c6f676f3d64616973797569266c6f676f436f6c6f723d7768697465" alt="Daysui"></img>
-<img src="https://camo.githubusercontent.com/e01b1cfdcc52e26519db194c2a7b4b93eafe7a614a0dab69cfe967864a8f1119/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642" alt="expressjs"></img>
-<img src="https://camo.githubusercontent.com/f93e05694a6f01f2f6a37713a454a942442a5ff2b33083891096a6f7e57842f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="reactjs"></img>
-<img src="https://camo.githubusercontent.com/fd00f5fb76a02f6093a50142c52193fa6353f4a1b5199827c57cbe99d611b532/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" alt="NPM"></img>
-<img src="https://camo.githubusercontent.com/8477a50d7210f0f3bf15fbe5b44809296b75f2101a2927818599d72c8ea72cef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="node"></img>
-<img src="https://camo.githubusercontent.com/cf57bdae6cd284d883710828917fd9f7e1220ef4710ed19b2e9ae2163bb339f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265616374253230486f6f6b253230466f726d2d2532334543353939302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374686f6f6b666f726d266c6f676f436f6c6f723d7768697465" alt="ReactHook"></img>
-<img src="https://camo.githubusercontent.com/e3aef779877ecfad97fc1e213d3c449a685e6766c0c7fdca210802d4a1f59302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d736f636b65742e696f266261646765436f6c6f723d303130313031" alt="Socket"></img>
-<img src="https://camo.githubusercontent.com/f538d9a749f7c49325cb8264739fecac0280f8ff1375937e7095737ef97d9048/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d526561637425323051756572792d4646343135343f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742532307175657279266c6f676f436f6c6f723d7768697465" alt="react"></img>
-<img src="https://camo.githubusercontent.com/e295d0d1e6177be7fea7a386b987eb60077135419f901c302c2d1d327528b776/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="redux"></img>
-<img src="https://camo.githubusercontent.com/7fc04bf38043707d286c6e516431ead2587dd2768f6552df60ec7e119ec8dd6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74687265656a732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d74687265652e6a73266c6f676f436f6c6f723d7768697465" alt="tailwindcss"></img>
-<img src="https://camo.githubusercontent.com/a5437581466397bfa3066cb55e6a0bbdd58b1dcfe0c4d4b107796ac13e3fdf3d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6130383032313f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d666663643334" alt="firebase"></img>
-<img src="https://camo.githubusercontent.com/ec9b2bbaccf6915a29050ce24c10cd9b481b0c41b0bf5194add3e69f49a9be3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="mongo"></img>
-<img src="https://camo.githubusercontent.com/e37ddb78355265ccd69b7d3c30dbaa5bc04855958c4ae320090d4f945616ad6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" alt="sqlite"></img>
-<img src="https://camo.githubusercontent.com/0d69bd5f3e56aabad0d1a0869a2bbf559648e8fde5478d9fa6331f424a097618/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53757061626173652d3345434638453f7374796c653d666f722d7468652d6261646765266c6f676f3d7375706162617365266c6f676f436f6c6f723d7768697465" alt="keras"></img>
-<img src="https://camo.githubusercontent.com/0d69bd5f3e56aabad0d1a0869a2bbf559648e8fde5478d9fa6331f424a097618/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53757061626173652d3345434638453f7374796c653d666f722d7468652d6261646765266c6f676f3d7375706162617365266c6f676f436f6c6f723d7768697465" alt="supabase"></img>
-<img src="https://camo.githubusercontent.com/86e9def5b8ea4baaf6edc890845202c380fe5c19403fd0f3e91a14d5dbf71039/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b" alt="matplotlib"></img>
-<img src="https://camo.githubusercontent.com/201e0e586a865b19eef2e2d271662d9b4304757ff6710b7e4ccebf7b99fe7873/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465" alt="numpy"></img>
-<img src="https://camo.githubusercontent.com/ab7cc86b1732285ea35c5b555b5f958f063d9215f5ce0afc85743c646bb716e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d2532334646364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" alt="tensorflow"></img>
-<img src="https://camo.githubusercontent.com/e39929a378d51fbc2b819c60b41e25514a8e24e2e42889cd936e9365dc0d438d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466173744150492d3030353537313f7374796c653d666f722d7468652d6261646765266c6f676f3d66617374617069" alt="fastapi"></img>
-<img src="https://camo.githubusercontent.com/d4af19cf5e60d0ed2246ca304cfc743d125061e29259c21534f070b496ebe3ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e4f44454d4f4e2d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64656d6f6e266c6f676f436f6c6f723d25424244454144" alt="nodemon"></img>
-<img src="https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="git"></img>
-<img src="https://camo.githubusercontent.com/7e282220b8ec0dd29cf99be1c0f5e82d74a42bc84ed834ee6afd86b4bad3bfee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt=""github></img>
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
 </p>
 
+---
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [Rushi Dave](https://www.linkedin.com/in/rushi-dave-785356200/)
+- **Email**: rushidave7388@gmail.com
+
+---
 
 <!---
-rushi-7388/rushi-7388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+rushi-7388/rushi-7388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
 --->
+
